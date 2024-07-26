@@ -10,7 +10,7 @@
 - 🔭 Check out my TikTok: [In Silince funny moment!][tiktok]!
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get more productive as streamer!
+- 🥅 2024 Goals: Get more productive as streamer!
 - ⚡ Fun fact: I'm very clumzy 🤣
 
 
