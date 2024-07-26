@@ -1,7 +1,7 @@
 # Hi there, I'm Savva - aka [JustGody][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9YfMG458q7TzBzmKfjd5tA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitch Channel Subscribers](https://img.shields.io/twitch/status/d1gad1?color=red&logo=twitch&logoColor=red&style=for-the-badge)][twitch]
+[![Twitch Channel Subscribers](https://img.shields.io/twitch/status/justgodylcm?color=red&logo=twitch&logoColor=red&style=for-the-badge)][twitch]
 
 
 
